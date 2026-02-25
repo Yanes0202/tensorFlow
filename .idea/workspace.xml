@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e294455-2ac6-4152-9ea7-a0f8f41d8ddf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tensorFlow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cats_and_dogs.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange/cat_dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/iris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_regression/linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/iris_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/iris_training.csv" afterDir="false" />
+    <list default="true" id="3e294455-2ac6-4152-9ea7-a0f8f41d8ddf" name="Changes" comment="Cat and Dog Image Classifier challenge">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange/rps/RPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange/rps/RPS_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange/rps/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange/rps/test_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challange/cat_dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/challange/cat_dog/cat_dog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +40,18 @@
     "Python.linear.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/adria/PycharmProjects/tensorFlow/resources",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/adria/PycharmProjects/tensorFlow",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\PycharmProjects\tensorFlow" />
+      <recent name="C:\Users\adria\PycharmProjects\tensorFlow\challange\rps" />
       <recent name="C:\Users\adria\PycharmProjects\tensorFlow\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\PycharmProjects\tensorFlow\challange\cat_dog" />
     </key>
   </component>
   <component name="RunManager">
@@ -123,6 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1769280464998</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cat and Dog Image Classifier challenge">
+      <option name="closed" value="true" />
+      <created>1772061220875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772061220875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +155,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cat and Dog Image Classifier challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cat and Dog Image Classifier challenge" />
   </component>
 </project>
