@@ -5,10 +5,9 @@ from tensorflow.keras.layers import Dense, Conv2D, Flatten, Dropout, MaxPooling2
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 import os
-import numpy as np
 import matplotlib.pyplot as plt
 
-PATH = '../../cats_and_dogs'
+PATH = '../../resources/cats_and_dogs'
 
 train_dir = os.path.join(PATH, 'train')
 validation_dir = os.path.join(PATH, 'validation')
